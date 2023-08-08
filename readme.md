@@ -13,7 +13,7 @@
 <br>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0pSIOwm8Jz5iMj3nR2rllq?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d10938.946969439212!2d-85.71052123704344!3d32.430313960040394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1691523164593!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1mnQEp3ySFIn18UpKUiQCw?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6sQckd3Z8NPxVVKUnavY1F?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -25,7 +25,7 @@
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d33711.18168878241!2d-81.23907814031816!3d34.99480612742033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1691522993056!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d769831.917573703!2d-85.72667387276849!3d32.47249438431131!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1691522943560!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d10938.946969439212!2d-85.71052123704344!3d32.430313960040394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1691523164593!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d757860.4705444245!2d-84.39481087531259!3d33.84678727715005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1691522884979!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
